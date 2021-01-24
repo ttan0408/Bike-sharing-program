@@ -47,4 +47,8 @@ After exporting new .csv file we create Tableau project in order to create visua
   ![alt text][Image5]
   
   [Image5]: https://github.com/ttan0408/Bike-sharing-program/blob/main/Trips%20by%20Gender%20by%20Weekday.PNG "Trip by gender by weekday"
+  
+  Finaly the link to our Tableau public page is here :
+  
+  [link to dashboard](https://public.tableau.com/views/Challenge_bike_sharingprogram/Story1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link "link to           dashboard")
 
