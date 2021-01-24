@@ -46,5 +46,5 @@ After exporting new .csv file we create Tableau project in order to create visua
    Trip by gender by weekday : 
   ![alt text][Image5]
   
-  [Image5]: https://github.com/ttan0408/Bike-sharing-program/blob/main/Trips%20by%20Gender%20(Weekday%20per%20Hour).PNG "Trip by gender by weekday"
+  [Image5]: https://github.com/ttan0408/Bike-sharing-program/blob/main/Trips%20by%20Gender%20by%20Weekday.PNG "Trip by gender by weekday"
 
