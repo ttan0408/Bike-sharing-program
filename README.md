@@ -8,6 +8,11 @@ After exporting new .csv file we create Tableau project in order to create visua
 
 ## Checkout Time for Users
    The purpose of this visualiztion is to understand what is the aveage checkout time for users in NYC so we can estimate the base revenue for our new bussiness. 
+   
+   The checkout Time for Users is shown below : 
+  ![alt text][Image1]
+  
+  [Image1]: https://github.com/ttan0408/UFOs/blob/main/DATE_FILTERED_SUMARRY_TABLE.PNG "DATE WITH THE MOST UFOs OBSERVATION"
 
 ## Checkout Time by Gender
 ## Trips by Weekday per Hour
