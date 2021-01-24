@@ -18,9 +18,9 @@ After exporting new .csv file we create Tableau project in order to create visua
    So we know that users are biking from 4-6 hours, but we need to understand more to see which gender is prefer biking so we can create some more advertising depend on each      gender. In this analysis we see that male tend to prefer biking than female and the plot/chart is shown below :
    
    Male prefer biking than female : 
-  ![alt text][Image1]
+  ![alt text][Image2]
   
-  [Image1]: https://github.com/ttan0408/Bike-sharing-program/blob/main/Checkout%20Times%20by%20Gender.PNG "Male has higher checkout time then female"
+  [Image2]: https://github.com/ttan0408/Bike-sharing-program/blob/main/Checkout%20Times%20by%20Gender.PNG "Male has higher checkout time then female"
       
 
 ## Trips by Weekday per Hour
