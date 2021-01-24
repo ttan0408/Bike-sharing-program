@@ -32,5 +32,8 @@ After exporting new .csv file we create Tableau project in order to create visua
   [Image3]: https://github.com/ttan0408/Bike-sharing-program/blob/main/Trips%20by%20Weekday%20per%20Hour.PNG "Trip by weekeday per hour"
 
 ## Trips by Gender (Weekday per Hour)
+  Know the busy time of the week and days, but again we need to see which gender using the bike, again male gender has the highest trip per hour by weekday than female.
+  
+  
 ## Trips by Gender by Weekday
 
