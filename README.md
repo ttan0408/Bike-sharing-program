@@ -20,7 +20,7 @@ After exporting new .csv file we create Tableau project in order to create visua
    Male prefer biking than female : 
   ![alt text][Image1]
   
-  [Image1]: https://github.com/ttan0408/Bike-sharing-program/blob/main/Checkout%20Times%20for%20Users.PNG "CHECKOUT TIME FOR USERS"
+  [Image1]: https://github.com/ttan0408/Bike-sharing-program/blob/main/Checkout%20Times%20by%20Gender.PNG "Male has higher checkout time then female"
       
 
 ## Trips by Weekday per Hour
