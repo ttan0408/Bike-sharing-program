@@ -6,5 +6,11 @@ https://github.com/ttan0408/Bike-sharing-program/blob/main/NYC_CitiBike_Challeng
 
 After exporting new .csv file we create Tableau project in order to create visualiztion and anylyze the data. We divide the analysis into 5 categories : 
 
+## Checkout Time for Users
+   The purpose of this visualiztion is to understand what is the aveage checkout time for users in NYC so we can estimate the base revenue for our new bussiness. 
 
+## Checkout Time by Gender
+## Trips by Weekday per Hour
+## Trips by Gender (Weekday per Hour)
+## Trips by Gender by Weekday
 
