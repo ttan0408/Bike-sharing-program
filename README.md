@@ -7,12 +7,12 @@ https://github.com/ttan0408/Bike-sharing-program/blob/main/NYC_CitiBike_Challeng
 After exporting new .csv file we create Tableau project in order to create visualiztion and anylyze the data. We divide the analysis into 5 categories : 
 
 ## Checkout Time for Users
-   The purpose of this visualiztion is to understand what is the aveage checkout time for users in NYC so we can estimate the base revenue for our new bussiness. 
+   The purpose of this visualiztion is to understand what is the aveage checkout time for users in NYC so we can estimate the base revenue for our new bussiness. It is i          interesting to see that the average checkout time is about 4-6 hours, and this can be use to calculate the minimum revenue for our bussiness.
    
    The checkout Time for Users is shown below : 
   ![alt text][Image1]
   
-  [Image1]: https://github.com/ttan0408/UFOs/blob/main/DATE_FILTERED_SUMARRY_TABLE.PNG "DATE WITH THE MOST UFOs OBSERVATION"
+  [Image1]: https://github.com/ttan0408/Bike-sharing-program/blob/main/Checkout%20Times%20for%20Users.PNG "CHECKOUT TIME FOR USERS"
 
 ## Checkout Time by Gender
 ## Trips by Weekday per Hour
