@@ -24,6 +24,13 @@ After exporting new .csv file we create Tableau project in order to create visua
       
 
 ## Trips by Weekday per Hour
+  Monday -Friday 7AM-8AM has  consistent busy checkout time while Monday, Tuesday, Thrsday between 5PM-6PM has high checkout time. With this we can set up the time for bike     maintenance without interfer the business income.
+
+  Trip by weekeday per hour : 
+  ![alt text][Image3]
+  
+  [Image3]: https://github.com/ttan0408/Bike-sharing-program/blob/main/Checkout%20Times%20by%20Gender.PNG "Trip by weekeday per hour"
+
 ## Trips by Gender (Weekday per Hour)
 ## Trips by Gender by Weekday
 
