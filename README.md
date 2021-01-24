@@ -41,4 +41,10 @@ After exporting new .csv file we create Tableau project in order to create visua
   
   
 ## Trips by Gender by Weekday
+  Lastly this visulization shows the subcribers are mosly male, this is important so we can balancing the bike types to meet the demand dusing the busy hours of weekday.
+
+   Trip by gender by weekday : 
+  ![alt text][Image5]
+  
+  [Image5]: https://github.com/ttan0408/Bike-sharing-program/blob/main/Trips%20by%20Gender%20(Weekday%20per%20Hour).PNG "Trip by gender by weekday"
 
